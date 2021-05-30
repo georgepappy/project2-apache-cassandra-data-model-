@@ -1,0 +1,2 @@
+# Introduction
+This notebook implements an ETL Pipeline and Apache Cassandra (NoSQL) Database system to support data analysis for the Sparkify music streaming app, which stores all song and user activity data in CSV files. The ETL Pipeline extracts this data from the CSV files, creates the necessary tables designed to support several user-specified queries, inserts the required data into these tables, and creates/executes/verifies the desired queries.
